@@ -1,0 +1,10 @@
+.input-label {
+  font-size: 1, 2rem;
+  margin-right: 1em;
+  font-weight: 700;
+}
+.field {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

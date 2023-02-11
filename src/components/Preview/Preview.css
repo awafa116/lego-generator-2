@@ -1,0 +1,10 @@
+.pixel {
+  width: 4px;
+  height: 4px;
+}
+
+.preview-container {
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+}
