@@ -1,10 +1,9 @@
 .pixel {
-  width: 4px;
-  height: 4px;
+  width: 3px;
+  aspect-ratio: 1/1;
 }
 
 .preview-container {
-  max-width: 1200px;
   display: flex;
   flex-wrap: wrap;
 }
